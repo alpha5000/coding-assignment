@@ -19,6 +19,7 @@ Requirements are designed to be vague, and while it's good to ask questions to c
 ### Task specific requirements
 - Please use a Ruby web framework
 - Please have an architecture design of the app ready before you implement it
+  + __Architecture design:__ e.g. How models (or components) will be interacting with each other
   + Have a screenshot or picture of it will be fine and upload it with the app
 - Please have automated tests, minimum unit tests (integration tests will be a plus)
 - Please have the code publically accessible (e.g. on GitHub) and have the source code under version control
