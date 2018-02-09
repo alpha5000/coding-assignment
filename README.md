@@ -23,7 +23,7 @@ Requirements are designed to be vague, and while it's good to ask questions to c
   + If you're not used to Ruby, [Sinatra](http://sinatrarb.com/) could be a good point of entry since it's very basic and highly configurable, if you have some exposure to Ruby, [Ruby on Rails](http://rubyonrails.org/) might be easier for you
 - Please have an architecture design of the app ready before you implement it
   + __Architecture design:__ e.g. How models (or components) will be interacting with each other
-  + Have a picture of a drawing or the kind will be fine and upload it with the app
+  + Have a picture of a drawing or the kind will be fine and upload it with the source code
 - Please have automated tests, minimum unit tests (integration tests will be a plus)
   + [RSpec](http://rspec.info/) is one of the framework you can utilize
   + Take a look at [Capybara](https://github.com/teamcapybara/capybara) if you are willing to go all the way to end to end testing
@@ -34,7 +34,7 @@ Requirements are designed to be vague, and while it's good to ask questions to c
   + How to use the app
 
 #### Optional (bonus)
-- Deploy the app and have it publically accessible in case the instruction for running the app locally doesn't work
+Deploy the app and have it publically accessible in case the instruction for running the app locally doesn't work. [Heroku](https://www.heroku.com/) is a good way to start.
 
 ### Time limit
 There will be no deadlines.
