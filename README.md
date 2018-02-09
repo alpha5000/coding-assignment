@@ -40,10 +40,10 @@ Deploy the app and have it publically accessible in case the instruction for run
 There will be no deadlines.
 
 ### Handing in the assignment
-Please send an email to jobs@cerego.com with the title `DevOps coding assignment` with your
+Please send an email to jobs@cerego.com with the subject `DevOps coding assignment` with your
 - Name
 - Resume
 - A link to your source code (and the hosted app if deployed)
 
 
-Thank you for your interest and looking to see your project.
+Thank you for your interest and looking forward to see your project.
